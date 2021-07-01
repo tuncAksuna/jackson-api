@@ -1,4 +1,4 @@
-package com.tuncode.hibernate;
+package com.tuncode.jackson;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
