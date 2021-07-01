@@ -12,7 +12,7 @@ public class Main {
         try {
 
             ObjectMapper mapper = new ObjectMapper();
-            Example exampleClass = mapper.readValue(new File("myFile.json"), Example.class);
+            Example exampleClass = mapper.readValue(new File("src/myFile.json"), Example.class);
             System.out.println("Age : " + exampleClass.getAge() + "\n" +
                     "First name : " + exampleClass.getFirstName() + "\n" +
                     "Last name : " + exampleClass.getLastName() + "\n" +
