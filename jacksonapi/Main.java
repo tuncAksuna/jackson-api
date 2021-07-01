@@ -1,4 +1,4 @@
-package com.tuncode.jackson;
+package com.tuncode.jacksonapi;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
