@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "first": "Cem Tunc",
+      "last": "AKSUNA"
+    },
+    "contact": [
+      {
+        "type": "phone/home",
+        "ref": "0545 823 91 60"
+      },
+      {
+        "type": "phone/work",
+        "ref": "0545 823 90 70"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": {
+      "first": "Selvi",
+      "last": "AKSUNA"
+    },
+    "contact": [
+      {
+        "type": "phone/home",
+        "ref": "333-333-1234"
+      },
+      {
+        "type": "phone/work",
+        "ref": "444-444-4444"
+      }
+    ]
+  }
+]
